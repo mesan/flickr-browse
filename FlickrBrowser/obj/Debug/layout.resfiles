@@ -1,0 +1,17 @@
+Assets\DarkGray.png
+Assets\flickr-logo.png
+Assets\LightGray.png
+Assets\Logo.png
+Assets\MediumGray.png
+Assets\SmallLogo.png
+Assets\SplashScreen.png
+Assets\StoreLogo.png
+App.xaml
+Assets\CustomStyles.xaml
+Common\StandardStyles.xaml
+Pages\BasePage.xaml
+Pages\HomePage.xaml
+Pages\MyPhotosPage.xaml
+Pages\RecentlyAddedPage.xaml
+UserControls\HeaderUserControl.xaml
+UserControls\SettingsUserControl.xaml

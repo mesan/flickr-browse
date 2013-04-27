@@ -1,0 +1,1 @@
+C:\Users\Sindre\Documents\Visual Studio 2012\Projects\Win8 Apps\FlickrBrowser\FlickrBrowser\FlickrBrowser.csproj;neutral
